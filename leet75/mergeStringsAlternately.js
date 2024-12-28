@@ -10,8 +10,3 @@ var mergeAlternately = function (word1, word2) {
   }
   return str;
 };
-
-const word1 = "abc";
-const word2 = "pqr";
-
-console.log(mergeAlternately(word1, word2));
